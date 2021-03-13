@@ -1,17 +1,12 @@
 <!DOCTYPE html>
-<head></head>
 <html lang="en">
-<title>Dont't touch me!</title>
+<title>faces</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" sizes="300x300" type="image/ico" href="icon.jpeg" />
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<head>
-    <link rel="stylesheet" href="index.css">
-</head>
-</head>
 <style>
     body {
         font-family: "Lato", sans-serif
@@ -23,23 +18,20 @@
 </style>
 <body>
 
-       <!-- Navbar -->
-       <div class="w3-top">
+    <!-- Navbar -->
+    <div class="w3-top">
         <div class="w3-bar w3-black w3-card">
             <a class="w3-bar-item w3-button w3-padding-large w3-hide-medium w3-hide-large w3-right" href="javascript:void(0)" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
             <a href="index.html" class="w3-bar-item w3-button w3-padding-large">Cattie</a>
-            <a href="ulasilamaz.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Untouchable</a>
-            <a href="with.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">With human!</a>
-            <a href="new_page.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">Fresh</a>
-      </div>
+            <a href="iletisim.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small">We're here</a>
+        </div>
     </div>
 
     <!-- Navbar on small screens (remove the onclick attribute if you want the navbar to always show on top of the content when clicking on the links) -->
     <div id="navDemo" class="w3-bar-block w3-black w3-hide w3-hide-large w3-hide-medium w3-top" style="margin-top:46px">
         <a href="index.html" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Main</a>
-        <a href="ulasilamaz.html" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Untouchable</a>
-        <a href="with.html" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">With human!</a>
-        <a href="new_page.html" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">Fresh</a>
+        <a href="iletisim.html" class="w3-bar-item w3-button w3-padding-large" onclick="myFunction()">We're here</a>
+
     </div>
     <!-- Page content -->
     <div class="w3-content" style="max-width:2000px;margin-top:46px">
@@ -49,52 +41,72 @@
 
     </div>
     
-<!-- The Tour Section -->
-<div class="w3-purple" id="tour">
-    <div class="w3-container w3-content w3-padding-64" style="max-width:1000px">
-        <h2 class="w3-wide w3-center">Yes, they all have a story and a name.</h2>
-        
-        
+
+    <!-- The about Section -->
+    <div class="w3-black" id="tour">
+        <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
+            <h2 class="w3-wide w3-center">Hello everyone!</h2>
+           
 
 
 
-        <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
-            <div class="w3-third w3-margin-bottom">
-                <img src="ph/ph1.jpeg" alt="1" style="width:100%" class="w3-hover-opacity">
-                
-            </div>
-            
-            
-            <div class="w3-third w3-margin-bottom">
-                <img src="ph/cantph1.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
-            </div>
+            <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
+                <div class="w3-third w3-margin-bottom">
+                    <img src="ph1.jpeg" alt="1" style="width:100%" class="w3-hover-opacity">
+                    <div class="w3-container w3-white">
+                 </div>
+                </div>
+                <div class="w3-third w3-margin-bottom">
+                    <img src="ph2.jpeg" alt="2" style="width:100%" class="w3-hover-opacity">
+                    <div class="w3-container w3-white">
+                        
+                    </div>
+                </div>
+                <div class="w3-third w3-margin-bottom">
+                    <img src="ph3.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
+                    <div class="w3-container w3-white">
 
-            <div class="w3-third w3-margin-bottom">
-                <img src="ph/cantph2.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
-            </div>
+                    <div class="w3-third w3-margin-bottom">
+                    <img src="ph4.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
+                </div>
 
-            <div class="w3-third w3-margin-bottom">
-                <img src="ph/cantph3.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
-            </div>
+                <div class="w3-third w3-margin-bottom">
+                    <img src="ph5.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
+                </div>
 
-            <div class="w3-third w3-margin-bottom">
-                <img src="ph/cantph4.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
-            </div>
+                <div class="w3-third w3-margin-bottom">
+                    <img src="ph6.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
+                </div>
 
-            <div class="w3-third w3-margin-bottom">
-                <img src="ph/ph14.jpg" alt="3" style="width:100%" class="w3-hover-opacity">
-            </div>
+                <div class="w3-third w3-margin-bottom">
+                    <img src="ph7.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
+                </div>
 
+                <div class="w3-third w3-margin-bottom">
+                    <img src="ph8.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
+                </div>
 
-      
+                <div class="w3-third w3-margin-bottom">
+                    <img src="ph9.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
+                </div>
 
-        
+                <div class="w3-third w3-margin-bottom">
+                    <img src="ph10.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
+                </div>
 
+                <div class="w3-third w3-margin-bottom">
+                    <img src="ph11.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
+                </div>
+
+                <div class="w3-third w3-margin-bottom">
+                    <img src="ph12.jpeg" alt="3" style="width:100%" class="w3-hover-opacity">
+                </div>
+
+                    </div>
+                </div>
             </div>
         </div>
     </div>
-
-
 
 
 
